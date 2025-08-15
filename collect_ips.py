@@ -6,7 +6,7 @@ import os
 # 目标URL列表
 urls = [
     'https://ip.164746.xyz', 
-    'https://cf.vvhan.com/', 
+    'https://cf.vvhan.com', 
     'https://stock.hostmonit.com/CloudFlareYes',
     'https://www.wetest.vip/page/cloudflare/address_v4.html'
 ]
